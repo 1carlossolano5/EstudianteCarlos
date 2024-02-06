@@ -1,0 +1,1 @@
+print("El precio de la entrada es")
